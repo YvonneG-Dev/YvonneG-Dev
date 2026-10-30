@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Yvonne 👋
 
-<!--
-**YvonneG-Dev/YvonneG-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Senior iOS Developer · C++ Developer · Exploring Machine Learning**
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **iOS:** Swift, SwiftUI, SwiftData, CoreML
+- **Machine Learning:** Python, NumPy, scikit-learn
+- **C++:** C++20, Qt, QML, CMake
+
+### 🚀 Featured Projects
+
+- ✋ [HandPoseDetection](https://github.com/YvonneG-Dev/HandPoseDetection) – Real-time hand pose detection with SwiftUI and Apple Vision.
+- 🎨 [Pixelarium](https://github.com/YvonneG-Dev/Pixelarium) – A desktop image viewer built with C++20 and Qt 6.
+- 💬 [DailyQuotes](https://github.com/YvonneG-Dev/DailyQuotes) – A minimalist iOS app built with SwiftUI and SwiftData.
+- 🧠 [Machine Learning Workbook](https://github.com/YvonneG-Dev/machine-learning-workbook) – Hands-on ML experiments and CoreML integration.
+
+### 🌱 Currently Exploring
+
+Machine Learning, modern C++ and on-device AI.
+
+
+**Always curious. Always learning. 😊**
